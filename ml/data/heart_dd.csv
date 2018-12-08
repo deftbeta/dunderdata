@@ -1,0 +1,14 @@
+column_name,description
+slope,"the slope of the peak exercise ST segment, an electrocardiography read out indicating quality of blood flow to the heart"
+thal,"results of thallium stress test measuring blood flow to the heart, with possible values normal, fixed_defect, reversible_defect"
+rest_bp,resting blood pressure
+chest_pain,chest pain type (4 values)
+num_major_vessels,number of major vessels (0-3) colored by flourosopy
+sugar,fasting blood sugar > 120 mg/dl
+rest_ekg,"resting electrocardiographic results (values 0,1,2)"
+chol,serum cholestoral in mg/dl
+oldpeak,"oldpeak = ST depression induced by exercise relative to rest, a measure of abnormality in electrocardiograms"
+sex,sex
+age,age in years
+max_heart_rate,maximum heart rate achieved (beats per minute)
+angina,"exercise-induced chest pain (0: False, 1: True)"

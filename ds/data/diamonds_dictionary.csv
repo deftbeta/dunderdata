@@ -1,0 +1,11 @@
+Column Name,Description
+carat,weight of the diamond
+clarity,"measurement of how clear the diamond is (I2 (worst), I1, SI2, SI1, VS2, VS1, VVS2, VVS1, IF, FL (best))"
+color,"diamond color, from L (worst) to D (best)"
+cut,"quality of the cut (Fair, Good, V.Good, Premium, Ideal)"
+depth,total depth percentage = 2 * z / (x + y)
+price,price in US dollars
+table,width of top of diamond relative to widest point
+x,length in mm
+y,width in mm
+z,depth in mm
